@@ -7,41 +7,44 @@
 <recetas>
     <receta>
         <titulo>Tortilla de patata</titulo>
-        <tipo>Desayuno</tipo>
-        <ingredientes>
-            <ingrediente>Patata</ingrediente>
-            <ingrediente>Huevo</ingrediente>
-            <ingrediente>Aceite</ingrediente>
+        <ingredientes comensales="2">
+            <ingrediente nombre="patata" cantidad="1" unidad="kg"></ingrediente>
+            <ingrediente nombre="huevo" cantidad="12" unidad="u"></ingrediente>
+            <ingrediente nombre="sal" cantidad="3" unidad="cucharada"></ingrediente>
         </ingredientes>
-        <nacionalidad>España</nacionalidad>
+        <general tipo="desayuno" nacionalidad="españa" region="andalucia"></general>
+        <procedimiento></procedimiento>
     </receta>
     <receta>
         <titulo>Paella</titulo>
-        <tipo>Cena</tipo>
-        <ingredientes>
-            <ingrediente>Arroz</ingrediente>
-            <ingrediente>Pimiento</ingrediente>
-            <ingrediente>Aceite</ingrediente>
+        <ingredientes comensales="4">
+            <ingrediente nombre="arroz" cantidad="1" unidad="kg"></ingrediente>
+            <ingrediente nombre="pimiento" cantidad="500" unidad="g"></ingrediente>
+            <ingrediente nombre="pollo" cantidad="500" unidad="g"></ingrediente>
         </ingredientes>
-        <comensales>4</comensales>
-        <nacionalidad>España</nacionalidad>
+        <general tipo="cena" nacionalidad="españa" region="valencia"></general>
+        <procedimiento></procedimiento>
     </receta>
     <receta>
         <titulo>Bizcocho</titulo>
-        <tipo>Desayuno</tipo>
-        <ingredientes>
-            <ingrediente>Harina</ingrediente>
-            <ingrediente>Leche</ingrediente>
-            <ingrediente>Aceite</ingrediente>
+        <ingredientes comensales="2">
+            <ingrediente nombre="harina" cantidad="1" unidad="kg"></ingrediente>
+            <ingrediente nombre="leche" cantidad="1" unidad="l"></ingrediente>
+            <ingrediente nombre="azucar" cantidad="4" unidad="cucharada"></ingrediente>
         </ingredientes>
-        <nacionalidad>España</nacionalidad>
+        <general tipo="desayuno" nacionalidad="españa" region="madrid"></general>
+        <procedimiento></procedimiento>
     </receta>
-    <receta>Hamburguesa</receta>
-    <tipo>Almuerzo</tipo>
-    <ingredientes>
-        <ingrediente>Carne</ingrediente>
-        <ingrediente>Pan</ingrediente>
-        <ingrediente>Aceite</ingrediente>
-    </ingredientes>
-    <nacionalidad>USA</nacionalidad>
+    <receta>
+        <titulo>Hamburguesa</titulo>
+        <ingredientes comensales="1">
+            <ingrediente nombre="carne" cantidad="300" unidad="g"></ingrediente>
+            <ingrediente nombre="pan" cantidad="1" unidad="u"></ingrediente>
+            <ingrediente nombre="huevo" cantidad="1" unidad="u"></ingrediente>
+            <ingrediente nombre="lechuga" cantidad="1" unidad="u"></ingrediente>
+            <ingrediente nombre="tomate" cantidad="1" unidad="u"></ingrediente>
+        </ingredientes>
+        <general tipo="cena" nacionalidad="usa" region="california"></general>
+        <procedimiento></procedimiento>
+    </receta>
 </recetas>
