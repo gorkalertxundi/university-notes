@@ -53,7 +53,7 @@ XML tiene forma de arbol.
 ## Namespaces
 - Solucionar problema de colison de nombres de documentos XML de distintas fuentes
 - Se le añade a cada nombre de elemento un prefijo que indica el espacio de nombres:
-    - Este prefijo es una referencia URI (TODO: definicion URI)
+    - Este prefijo es una referencia URI [Ref.1]
     - Se utiliza el atributo <b>xmins</b>
 - Para XSLT se utiliza el siguente namespace
 ```xml
@@ -71,4 +71,5 @@ XML tiene forma de arbol.
     </f:table>
 </root>
 ```
-
+[Ref.1]
+El URI (siglas de uniform resource identifier) o identificador uniforme de recursos (por su nombre en español) sirve para acceder a un recurso físico o abstracto por Internet.
