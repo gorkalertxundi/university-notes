@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tipos de busqueda que se quieren realizar
+    1.Por titulo
+    2.Por tipo de receta
+    3.Por ingredientes
+    4.Por nacionalidad de la receta -->
+<recetas>
+    <receta>
+        <titulo>Tortilla de patata</titulo>
+        <tipo>Desayuno</tipo>
+        <ingredientes>
+            <ingrediente>Patata</ingrediente>
+            <ingrediente>Huevo</ingrediente>
+            <ingrediente>Aceite</ingrediente>
+        </ingredientes>
+        <nacionalidad>España</nacionalidad>
+    </receta>
+    <receta>
+        <titulo>Paella</titulo>
+        <tipo>Cena</tipo>
+        <ingredientes>
+            <ingrediente>Arroz</ingrediente>
+            <ingrediente>Pimiento</ingrediente>
+            <ingrediente>Aceite</ingrediente>
+        </ingredientes>
+        <comensales>4</comensales>
+        <nacionalidad>España</nacionalidad>
+    </receta>
+    <receta>
+        <titulo>Bizcocho</titulo>
+        <tipo>Desayuno</tipo>
+        <ingredientes>
+            <ingrediente>Harina</ingrediente>
+            <ingrediente>Leche</ingrediente>
+            <ingrediente>Aceite</ingrediente>
+        </ingredientes>
+        <nacionalidad>España</nacionalidad>
+    </receta>
+    <receta>Hamburguesa</receta>
+    <tipo>Almuerzo</tipo>
+    <ingredientes>
+        <ingrediente>Carne</ingrediente>
+        <ingrediente>Pan</ingrediente>
+        <ingrediente>Aceite</ingrediente>
+    </ingredientes>
+    <nacionalidad>USA</nacionalidad>
+</recetas>
