@@ -18,7 +18,7 @@
 - Enterprise Tier
     - Quema de estos datos
 
-## TODO: añadir una foto de esta arquitectura
+![Image text](iot-architecture.png)
 
 ## Tipos de Interoperabilidad
 - Interoperabilidad técnica:
@@ -29,7 +29,7 @@
     - Teniendo en cuenta el contexto, sin contexto ese valor no tendría sentido
     - Además de mandar una temperatura, le mandamos un contexto (X engranaje en X empresa)
 - Ineroperabilidad organizativa:
-    - TODO
+    - Define el contexto necesario para que las organizaciones puedan cooperar. Reglas del negocio, procedimientos y flujos de trabajo
 
 ## Protocol paradigms
 Formas de intercambiar datos
