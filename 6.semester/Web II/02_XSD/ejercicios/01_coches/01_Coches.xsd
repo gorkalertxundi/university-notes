@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:attributeGroup name="carAttGroup">
+        <xs:attribute name="codigo" type="xs:string" use="required"/>
+        <xs:attribute name="matricula" type="xs:string" use="required"/>
+    </xs:attributeGroup>
+
+    <xs:group name="carGroup">
+        <xs:sequence>
+            <xs:element name="marca" type="xs:string"></xs:element>
+            <xs:element name="modelo" type="xs:string"/>
+            <xs:element name="potencia" type="xs:decimal"/>
+            <xs:element name="plazas" type="xs:integer"/>
+            <xs:element name="numeroPuertas" type="xs:integer"/>
+            <xs:element name="fechaFabricacion" type="xs:date"/>
+            <xs:element name="tipo">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="Km0"/>
+                        <xs:enumeration value="ocasión"/>
+                        <xs:enumeration value="gerencia"/>
+                        <xs:enumeration value="nuevo"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+        </xs:sequence>
+    </xs:group>
+
+    <xs:element name="concesionario">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="coche" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:group ref="carGroup"></xs:group>
+                        <xs:attributeGroup ref="carAttGroup"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
