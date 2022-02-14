@@ -47,3 +47,25 @@ El fichero XSD se ubica fuera del servidor
 ```xml
     <note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="note.xsd">
 ```
+
+## Estructura XSD
+Empieza con
+```xml
+<?xml version="1.0"?>
+<xs:schema>
+</xs:schema>
+```
+
+### Elementos simples:
+```xml
+<xs:string>
+<xs:date>
+<xs:time>
+<xs:integer>
+<xs:decimal>
+<xs:boolean>
+<xs:hexBinary>
+```
+
+### Elementos complejos:
+Son elementos que se componen de otros elementos o atributos (elementos anidados). Cuando es complejo no se le pone etiqueta type="". 
