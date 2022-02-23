@@ -1,0 +1,20 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="02_Comunidad.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<comunidad>
+    <vecino codigo="00001">
+        <nombre>Juan</nombre>
+        <apellido>Perez</apellido>
+        <portal>37</portal>
+        <piso letra="B">2</piso>
+        <codigoCuentaCorriente>123456789</codigoCuentaCorriente>
+        <cargo>Presidente</cargo>
+    </vecino>
+    <vecino codigo="00002">
+        <nombre>Ana</nombre>
+        <apellido>Gomez</apellido>
+        <portal>21</portal>
+        <piso letra="A">4</piso>
+        <codigoCuentaCorriente>123456789</codigoCuentaCorriente>
+        <cargo>Secretario</cargo>
+    </vecino>
+</comunidad> -->

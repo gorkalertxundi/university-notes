@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoclub>
+    <pelicula>
+        <titulo>El Padrino</titulo>
+        <nacionalidad>Española</nacionalidad>
+        <productora>Universal Pictures</productora>
+        <director>Francis Ford Coppola</director>
+        <año>1972</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Drama</genero>
+        <sinopsis>
+            El Padrino es una historia de amor que se desarrolla 
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://static3.abc.es/media/play/2019/09/20/padrino-kq3G--1200x630@abc.jpg"></foto>
+        <url>https://www.imdb.com/title/tt0068646/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>Batman</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Tim Burton</director>
+        <año>1989</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            Batman es un superhéroe de la península británica que
+            se enfrenta a la amenaza de la guerrilla terrorista de
+            Gotham City.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0096895/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>Avengers</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Marvel Studios</productora>
+        <director>Joss Whedon</director>
+        <año>2012</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            Los Vengadores son un grupo de superhéroes que se enfrentan
+            a la amenaza de Thanos, el malvado y poderoso enemigo de
+            todo el universo.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0848228/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>SpiderMan</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Marvel Studios</productora>
+        <director>Sam Raimi</director>
+        <año>2002</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            SpiderMan es un superhéroe de la península británica que
+            se enfrenta a la amenaza de la guerrilla terrorista de
+            Gotham City.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0145487/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>Shrek</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Universal Pictures</productora>
+        <director>Chris Miller</director>
+        <año>2001</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Animación</genero>
+        <sinopsis>
+            Shrek es un personaje de acción y aventura que protagoniza
+            una historia de amor.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Shawshank Redemption</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Frank Darabont</director>
+        <año>1994</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Drama</genero>
+        <sinopsis>
+            En el año de 1994, Andy Dufresne (Tim Robbins) es un
+            condenado a vivir en el préstamo de su casa de cárcel.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0111161/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Godfather</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Francis Ford Coppola</director>
+        <año>1972</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Drama</genero>
+        <sinopsis>
+            El Padrino es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0068646/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Godfather: Part II</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Francis Ford Coppola</director>
+        <año>1974</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Drama</genero>
+        <sinopsis>
+            El Padrino es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0068646/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Dark Knight</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Christopher Nolan</director>
+        <año>2008</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            Batman es un superhéroe de la península británica que
+            se enfrenta a la amenaza de la guerrilla terrorista de
+            Gotham City.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0468569/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Dark Knight Rises</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Christopher Nolan</director>
+        <año>2012</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Dark Knight Rises es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt1345836/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Lord of the Rings: The Fellowship of the Ring</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Peter Jackson</director>
+        <año>2001</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Lord of the Rings: The Fellowship of the Ring es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0120737/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Lord of the Rings: The Two Towers</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Peter Jackson</director>
+        <año>2002</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Lord of the Rings: The Two Towers es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0167261/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Lord of the Rings: The Return of the King</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Peter Jackson</director>
+        <año>2003</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Lord of the Rings: The Return of the King es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0167260/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Godfather</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Francis Ford Coppola</director>
+        <año>1972</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Drama</genero>
+        <sinopsis>
+            El Padrino es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0068646/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Godfather: Part II</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Francis Ford Coppola</director>
+        <año>1974</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Drama</genero>
+        <sinopsis>
+            El Padrino es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0068646/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Dark Knight</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Christopher Nolan</director>
+        <año>2008</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            Batman es un superhéroe de la península británica que
+            se enfrenta a la amenaza de la guerrilla terrorista de
+            Gotham City.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0468569/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Dark Knight Rises</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Christopher Nolan</director>
+        <año>2012</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Dark Knight Rises es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt1345836/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Lord of the Rings: The Fellowship of the Ring</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Peter Jackson</director>
+        <año>2001</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Lord of the Rings: The Fellowship of the Ring es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0120737/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Lord of the Rings: The Two Towers</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Peter Jackson</director>
+        <año>2002</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Lord of the Rings: The Two Towers es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0167261/</url>
+    </pelicula>
+    <pelicula>
+        <titulo>The Lord of the Rings: The Return of the King</titulo>
+        <nacionalidad>Estadounidense</nacionalidad>
+        <productora>Warner Bros. Pictures</productora>
+        <director>Peter Jackson</director>
+        <año>2003</año>
+        <duracion horas="2" minutos="32"></duracion>
+        <genero>Acción</genero>
+        <sinopsis>
+            The Lord of the Rings: The Return of the King es una historia de amor que se desarrolla
+            en una familia de empresarios de la ciudad de Nueva York.
+        </sinopsis>
+        <foto url="https://"></foto>
+        <url>https://www.imdb.com/title/tt0167260/</url>
+    </pelicula>
+</videoclub>

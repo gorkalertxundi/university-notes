@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:attributeGroup name="vecinoAttGroup">
+        <xs:attribute name="codigo" type="xs:string" use="required"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="pisoAttGroup">
+        <xs:attribute name="letra" type="xs:string" use="required"/>
+    </xs:attributeGroup>
+
+    <xs:element name="comunidad">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="vecino">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"></xs:element>
+                            <xs:element name="apellido" type="xs:string"></xs:element>
+                            <xs:element name="portal" type="xs:string"></xs:element>
+                            <!-- <xs:complexType> -->
+                                <xs:element name="piso" type="xs:string"></xs:element>
+                                <!-- <xs:attributeGroup ref="pisoAttGroup"/> -->
+                            <!-- </xs:complexType> -->
+                            <xs:element name="codigoCuentaCorriente" type="xs:string"></xs:element>
+                            <xs:element name="cargo">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:enumeration value="Presidente"/>
+                                        <xs:enumeration value="Vicepresidente"/>
+                                        <xs:enumeration value="Secretario"/>
+                                        <xs:enumeration value="Vocal"/>
+                                        <xs:enumeration value="Ninguno"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attributeGroup ref="vecinoAttGroup"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

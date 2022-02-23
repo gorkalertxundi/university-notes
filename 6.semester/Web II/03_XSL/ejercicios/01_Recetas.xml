@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+    <receta id="AngulasGuipuzcoanas">
+        <titulo>Angulas Guipuzcoanas</titulo>
+        <general cocina="Vasca" dificultad="Baja" tipo="Pescados"/>
+        <ingredientes>
+            <ingrediente cantidad="1" medida="kilos" nombre="angulas"/>    
+            <ingrediente cantidad="3" medida="cucharadas" nombre="aceite"/>    
+            <ingrediente cantidad="2" medida="dientes" nombre="ajo"/>    
+            <ingrediente cantidad="1" medida="dientes" nombre="guindilla"/>
+        </ingredientes>
+        <procedimiento> 
+            Se pone una cazuelita de barro en la chapa del fuego. Se pone al fuego 
+            una sartén pequeña con 3 cucharadas de aceite y 2 dientes de ajo 
+            hasta que casi se doren. Entonces se le pasa un trapo o servilleta a la cazuela de barro para 
+            secarle el sudor que se le haya podido formar y daría mal sabor a la 
+            angulas. Se coloca la cazuela al fuego y se vierten en ella el aceite, ajos y algo de 
+            guindilla y seguidamente las angulas. Se mueven suavemente con un 
+            tenedor de madera y al minuto, se saca de la cazuela todo el aceite 
+            posible. Vuelve a ponerse la cazuela al fuego, se vierte media 
+            cucharada de aguay, después de   un minuto, se sirve en 
+            la misma cazuela, que se colocará sobre la cesta de las angulas o sobre 
+            un plato.
+        </procedimiento>
+    </receta>
+    <receta id="CaldoSencillo">   
+        <titulo>Caldo_Sencillo</titulo>   
+        <general cocina="Vasca" dificultad="Baja" tipo="Sopas"/>   
+        <ingredientes>    
+            <ingrediente cantidad="1" medida="unidad" nombre="hueso"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Poner agua a hervir con un hueso de ternera 
+        </procedimiento>  
+    </receta>
+    <receta id="PescadoHorno">   
+        <titulo>vbnvb</titulo> 
+        <general cocina="Española" dificultad="Alta" tipo="Pescados"/>   
+        <ingredientes>    
+            <ingrediente cantidad="1" medida="unidad" nombre="pescado"/>   
+        </ingredientes>   
+        <procedimiento> 
+            limpiar el pescado  y meter al horno con un poco de aceite y sal 
+        </procedimiento>   
+    </receta>  
+    <receta id="BacalaoDorada">   
+        <titulo>Bacalao a la dorada</titulo>   
+        <general cocina="Vasca" dificultad="Baja" tipo="Pescados"/>   
+        <ingredientes>    
+            <ingrediente cantidad="1000" medida="gramos" nombre="Bacalao"/>    
+            <ingrediente cantidad="50" medida="mililitros" nombre="Aceite"/>    
+            <ingrediente cantidad="500" medida="gramos" nombre="Patata"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Doramos la patata echamos el bacalao desmigado, y lo dejamos 
+            reposar....Fin receta 
+    </procedimiento>   
+    </receta>  
+    <receta id="Pastel_de_natas">   
+        <titulo>Pastel de natas</titulo>   
+        <general cocina="Vasca" dificultad="Baja" tipo="Postres"/>   
+        <ingredientes>    
+            <ingrediente cantidad="500" medida="gramos" nombre="Natas"/>    
+            <ingrediente cantidad="500" medida="gramos" nombre="Azucar"/>    
+            <ingrediente cantidad="750" medida="gramos" nombre="Harina"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Batir los huevos con el azúcar hasta conseguir que se quede de color 
+            blanco, echar la harina espolvoreada y una cucharadita de levadura. Echar el azúcar 
+            y revlover meter al horno durtante 45 minutos 
+        </procedimiento>  
+    </receta>   
+    <receta id="Pimientos_Rellenos_de_morcilla">   
+        <titulo>Pimientos Rellenos de morcilla</titulo>   
+        <general cocina="Vasca" dificultad="Media" tipo="Carnes"/>   
+        <ingredientes>    
+            <ingrediente cantidad="250" medida="gramos" nombre="pimientos"/>    
+            <ingrediente cantidad="200" medida="gramos" nombre="morcilla"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Se rellenan los pimientos con morcillas previo paso de eliminación del pellejo, 
+            una vez rellenos se albardan, y posteriomente se le echa una salsa 
+            española...........siguiendo la receta tradicional.Gero arte beste bat. 
+        </procedimiento>  
+    </receta> 
+    <receta id="Pimientos_Piquillo">   
+        <titulo>Pimientos Piquillo</titulo>   
+        <general cocina="Vasca" dificultad="Baja" tipo="Verduras"/>   
+        <ingredientes>    
+            <ingrediente cantidad="500" medida="gramos" nombre="pimientos"/>    
+            <ingrediente cantidad="50" medida="mililitros" nombre="aceite"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Se calienta el aceite, y se echan los pimientos, con un poco de sal y un 
+            poco de azúcar. Se remueven un poco los pimientos, para que engorde 
+            la salsa. 
+        </procedimiento>  
+    </receta>   
+    <receta id="Churros">   
+        <titulo>Churros</titulo>   
+        <general cocina="Vasca" dificultad="Baja" tipo="Postres"/>   
+        <ingredientes>    
+            <ingrediente cantidad="250" medida="gramos" nombre="harina"/>    
+            <ingrediente cantidad="250" medida="mililitros" nombre="agua"/>    
+            <ingrediente cantidad="1" medida="pizca" nombre="sal"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Se hace la masa, mezclando todos los ingredientes, y se deja reposar. 
+            Se pasa por el filtro para darle el tamaño y la forma de churro que se 
+            desee. 
+        </procedimiento>  
+    </receta>    
+    <receta id="rosquillas">   
+        <titulo>rosquillas</titulo>   
+        <general cocina="Vasca" dificultad="Baja" tipo="Postres"/>   
+        <ingredientes>    
+            <ingrediente cantidad="250" medida="gramos" nombre="harina"/>    
+            <ingrediente cantidad="1" medida="pizca" nombre="sal"/>    
+            <ingrediente cantidad="250" medida="mililitros" nombre="aceite"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Se hace la masa, mezclando todos los ingredientes, y se deja reposar. 
+            Luego se hacen tiras de masa, y se les da forma de rosquillas. 
+        </procedimiento>  
+    </receta> 
+    <receta id="Rabo_de_vaca">   
+        <titulo>Rabo de vaca</titulo>   
+        <general cocina="Española" dificultad="Baja" tipo="Carnes"/>   
+        <ingredientes> 
+            <ingrediente cantidad="2000" medida="gramos" nombre="patatas"/>    
+            <ingrediente cantidad="1000" medida="gramos" nombre="carne"/>    
+            <ingrediente cantidad="1" medida="pizca" nombre="sal"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Dorar el rabo en una olla, meterlo en .....durante 40 minutos. Añadir 
+            las patatas, laurel y pimienta. 
+        </procedimiento>    
+    </receta>  
+    <receta id="Tortellini_en_salsa_de_albahaca">   
+        <titulo>Tortellini en salsa de albahaca</titulo>   
+        <general cocina="Italiana" dificultad="Baja" tipo="Carnes"/>   
+        <ingredientes>    
+            <ingrediente cantidad="50" medida="gramos" nombre="salsa de albahaca"/>    
+            <ingrediente cantidad="200" medida="gramos" nombre="pasta"/>    
+            <ingrediente cantidad="3" medida="pizca" nombre="ajo"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Cocer la pasta con aceite de oliva y una pizca de sal. Una vez cocida la 
+            pasta, dejamos reposar mientras en una sarten con poco aceite 
+            echamos la salsa de albahaca y el ajo picado, y cuando salte la salsa se 
+            echa la pasta, la salsa se pega a la pasta y ademas le da un sabor 
+            especial. Rico Rico Rico 
+        </procedimiento>   
+    </receta>  
+    <receta id="Sapo_a_la_parrilla">   
+        <titulo>Sapo a la parrilla</titulo>   
+        <general cocina="Vasca" dificultad="Alta" tipo="Pescados"/>   
+        <ingredientes>    
+            <ingrediente cantidad="2000" medida="gramos" nombre="sapo"/>    
+            <ingrediente cantidad="50" medida="mililitros" nombre="aceite"/>    
+            <ingrediente cantidad="1" medida="pizca" nombre="sal"/>   
+        </ingredientes>   
+        <procedimiento> 
+            Lo que quieras, poner al fuego carbón vegetal, 2 horas antes.&#13; 
+            10 minutos cada lado. 
+        </procedimiento>  
+    </receta> 
+</recetas> 

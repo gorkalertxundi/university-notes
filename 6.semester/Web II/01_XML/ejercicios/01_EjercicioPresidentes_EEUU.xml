@@ -1,97 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Crea un documento XML que ofrezca una estructura de elementos y atributos que permita recoger la 
-    información mostrada en https://es.wikipedia.org/wiki/Anexo:Presidentes_de_los_Estados_Unidos.
+    información mostrada en https://es.wikipedia.org/wiki/Anexo:presidents_de_los_Estados_Unidos.
 
-Introduce al menos los datos de 10 presidentes de EEUU. -->
-<presidentes>
-    <presidente>
-        <nombre>George Washington</nombre>
+Introduce al menos los datos de 10 presidents de EEUU. -->
+<?xml-stylesheet href="03_EjercicioPresidentes_EEUU.css" type="text/css"?>
+<presidents>
+    <president>
+        <name>George Washington</name>
         <fecha_nacimiento>1732-2-22</fecha_nacimiento>
         <fecha_muerte>1799-12-14</fecha_muerte>
         <lugar_nacimiento>Virginia</lugar_nacimiento>
         <lugar_muerte>Westmoreland</lugar_muerte>
         <periodo_presidencia>1789-1797</periodo_presidencia>
-        <partido>Independiente</partido>
-    </presidente>
-    <presidente>
-        <nombre>John Adams</nombre>
+        <party>Independiente</party>
+    </president>
+    <president>
+        <name>John Adams</name>
         <fecha_nacimiento>1735-10-25</fecha_nacimiento>
         <fecha_muerte>1826-7-4</fecha_muerte>
         <lugar_nacimiento>Massachusetts</lugar_nacimiento>
         <lugar_muerte>Massachusetts</lugar_muerte>
         <periodo_presidencia>1797-1801</periodo_presidencia>
-        <partido>Federalista</partido>
-    </presidente>
-    <presidente>
-        <nombre>Thomas Jefferson</nombre>
+        <party>Federalista</party>
+    </president>
+    <president>
+        <name>Thomas Jefferson</name>
         <fecha_nacimiento>1743-4-13</fecha_nacimiento>
         <fecha_muerte>1826-7-4</fecha_muerte>
         <lugar_nacimiento>Virginia</lugar_nacimiento>
         <lugar_muerte>Virginia</lugar_muerte>
         <periodo_presidencia>1801-1809</periodo_presidencia>
-        <partido>Democrata-Federalista</partido>
-    </presidente>
-    <presidente>
-        <nombre>James Madison</nombre>
+        <party>Democrata-Federalista</party>
+    </president>
+    <president>
+        <name>James Madison</name>
         <fecha_nacimiento>1751-3-16</fecha_nacimiento>
         <fecha_muerte>1836-6-28</fecha_muerte>
         <lugar_nacimiento>Virginia</lugar_nacimiento>
         <lugar_muerte>Virginia</lugar_muerte>
         <periodo_presidencia>1809-1817</periodo_presidencia>
-        <partido>Democrata-Republicano</partido>
-    </presidente>
-    <presidente>
-        <nombre>James Monroe</nombre>
+        <party>Democrata-Republicano</party>
+    </president>
+    <president>
+        <name>James Monroe</name>
         <fecha_nacimiento>1758-4-28</fecha_nacimiento>
         <fecha_muerte>1831-7-4</fecha_muerte>
         <lugar_nacimiento>Virginia</lugar_nacimiento>
         <lugar_muerte>Virginia</lugar_muerte>
         <periodo_presidencia>1817-1825</periodo_presidencia>
-        <partido>Democrata-Republicano</partido>
-    </presidente>
-    <presidente>
-        <nombre>John Quincy Adams</nombre>
+        <party>Democrata-Republicano</party>
+    </president>
+    <president>
+        <name>John Quincy Adams</name>
         <fecha_nacimiento>1767-7-11</fecha_nacimiento>
         <fecha_muerte>1848-2-23</fecha_muerte>
         <lugar_nacimiento>Massachusetts</lugar_nacimiento>
         <lugar_muerte>Massachusetts</lugar_muerte>
         <periodo_presidencia>1825-1829</periodo_presidencia>
-        <partido>Democrata-Republicano</partido>
-    </presidente>
-    <presidente>
-        <nombre>Andrew Jackson</nombre>
+        <party>Democrata-Republicano</party>
+    </president>
+    <president>
+        <name>Andrew Jackson</name>
         <fecha_nacimiento>1767-3-15</fecha_nacimiento>
         <fecha_muerte>1845-7-8</fecha_muerte>
         <lugar_nacimiento>Tennessee</lugar_nacimiento>
         <lugar_muerte>Tennessee</lugar_muerte>
         <periodo_presidencia>1829-1837</periodo_presidencia>
-        <partido>Democrata</partido>
-    </presidente>
-    <presidente>
-        <nombre>Martin Van Buren</nombre>
+        <party>Democrata</party>
+    </president>
+    <president>
+        <name>Martin Van Buren</name>
         <fecha_nacimiento>1782-12-5</fecha_nacimiento>
         <fecha_muerte>1862-4-4</fecha_muerte>
         <lugar_nacimiento>New York</lugar_nacimiento>
         <lugar_muerte>New York</lugar_muerte>
         <periodo_presidencia>1837-1841</periodo_presidencia>
-        <partido>Democrata</partido>
-    </presidente>
-    <presidente>
-        <nombre>William Henry Harrison</nombre>
+        <party>Democrata</party>
+    </president>
+    <president>
+        <name>William Henry Harrison</name>
         <fecha_nacimiento>1773-2-4</fecha_nacimiento>
         <fecha_muerte>1841-4-4</fecha_muerte>
         <lugar_nacimiento>Tennessee</lugar_nacimiento>
         <lugar_muerte>Tennessee</lugar_muerte>
         <periodo_presidencia>1841-1841</periodo_presidencia>
-        <partido>Whig</partido>
-    </presidente>
-    <presidente>
-        <nombre>John Tyler</nombre>
+        <party>Whig</party>
+    </president>
+    <president>
+        <name>John Tyler</name>
         <fecha_nacimiento>1790-2-28</fecha_nacimiento>
         <fecha_muerte>1862-4-4</fecha_muerte>
         <lugar_nacimiento>Virginia</lugar_nacimiento>
         <lugar_muerte>Virginia</lugar_muerte>
         <periodo_presidencia>1841-1845</periodo_presidencia>
-        <partido>Whig-Independiente</partido>
-    </presidente>
-</presidentes>
+        <party>Whig-Independiente</party>
+    </president>
+</presidents>

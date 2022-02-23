@@ -1,0 +1,26 @@
+"Presidentes": [
+    "presidente": {
+        "nombre": "Juan Carlos",
+        "apellido": "Perez",
+        "edad": "45",
+        "nacionalidad": "Argentino"
+    },
+    "presidente": {
+        "nombre": "Pedro Sanchez",
+        "apellido": "Parada",
+        "edad": "37",
+        "nacionalidad": "Español"
+    },
+    "presidente": {
+        "nombre": "Juan Carlos",
+        "apellido": "Perez",
+        "edad": "45",
+        "nacionalidad": "Argentino"
+    },
+    "presidente": {
+        "nombre": "Pedro Sanchez",
+        "apellido": "Parada",
+        "edad": "37",
+        "nacionalidad": "Español"
+    }
+]

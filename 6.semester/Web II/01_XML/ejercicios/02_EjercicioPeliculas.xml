@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+    <moviedef movieIdentifier="sw1">
+        <shortName>Star Wars Ep 1</shortName>
+        <longName>Star Wars Episode I: The Phantom Menace</longName>
+    </moviedef>
+    <moviedef identifier="sw2">
+        <shortName>Star Wars Ep 2</shortName>
+        <longName>Star Wars Episode II: Attack of the Clones</longName>
+    </moviedef>
+    <moviedef identifier="sw3">
+        <shortName>Star Wars Ep 3</shortName>
+        <longName>Star Wars Episode III: Revenge of the Sith</longName>
+    </moviedef>
+    <moviedef identifier="sw4">
+        <shortName>Star Wars Ep 4</shortName>
+        <longName>Star Wars Episode IV: A New Hope</longName>
+    </moviedef>
+</peliculas>
+<!-- 
+<cities>
+    <city cityIdentifier="ct1">
+        <name>City 1</name>
+        <theatres>
+            <theatre theatreIdentifier="th1">
+                <name>Theatre 1</name>
+                <billboard>
+                    <movie movieIdentifier="sw1"></movie>
+                    <movie movieIdentifier="sw2"></movie>
+                </billboard>
+            </theatre>
+            <theatre theatreIdentifier="th2">
+                <name>Theatre 2</name>
+                <billboard>
+                    <movie movieIdentifier="sw3"></movie>
+                    <movie movieIdentifier="sw4"></movie>
+                </billboard>
+            </theatre>
+        </theatres>
+    </city>
+    <city cityIdentifier="ct2">
+        <name>City 2</name>
+        <theatres>
+            <theatre theatreIdentifier="th3">
+                <name>Theatre 3</name>
+                <billboard>
+                    <movie movieIdentifier="sw1"></movie>
+                    <movie movieIdentifier="sw2"></movie>
+                </billboard>
+            </theatre>
+            <theatre theatreIdentifier="th4">
+                <name>Theatre 4</name>
+                <billboard>
+                    <movie movieIdentifier="sw3"></movie>
+                    <movie movieIdentifier="sw4"></movie>
+                </billboard>
+            </theatre>
+        </theatres>
+    </city>
+</cities> -->
